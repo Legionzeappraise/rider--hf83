@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with advanced JetBrains Rider for PC | JetBrains Rider for Windows Integration | debugger + database-tools, the #1
 
 
 
